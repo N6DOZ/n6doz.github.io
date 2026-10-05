@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://n6doz.github.io/sitemap.xml

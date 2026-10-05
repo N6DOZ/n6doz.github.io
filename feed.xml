@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>N6DOZ.US</title>
+    <link href="https://n6doz.github.io/feed.xml" rel="self" />
+    <link href="https://n6doz.github.io" />
+    <updated>2026-10-05T10:15:12-07:00</updated>
+    <author>
+        <name>Rudy &quot;N6DOZ&quot; G</name>
+    </author>
+    <id>https://n6doz.github.io</id>
+
+    <entry>
+        <title>Testing One Two Three</title>
+        <author>
+            <name>Rudy &quot;N6DOZ&quot; G</name>
+        </author>
+        <link href="https://n6doz.github.io/testing-one-two-three.html"/>
+        <id>https://n6doz.github.io/testing-one-two-three.html</id>
+
+        <updated>2026-10-05T10:15:12-07:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    This is a test of Publii
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    This is a test of Publii
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
